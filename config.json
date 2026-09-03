@@ -1,1 +1,228 @@
-
+{
+  "bot_activity_text": "/speedrun | Gravity Leaderboard\nby Yytanuki\nSuper thanks: lyger",
+  "default_background_url": "https://i.imgur.com/1gY2pA4.png",
+  "jp_whitelist": [
+    "tanukiYy",
+    "AmonHive",
+    "AlmondCellar",
+    "Suriipu",
+    "StoodBird84586",
+    "MintGamesYT",
+    "maikuragenzin",
+    "spring861",
+    "TouTubeTomaTV",
+    "iroha0515"
+  ],
+  "divisions": {
+    "5maps": {
+      "label": "5 Maps",
+      "background_url": "https://i.imgur.com/1gY2pA4.png",
+      "variable_value_name": "5 maps"
+    },
+    "nocustom": {
+      "label": "5 Maps No Custom Server",
+      "background_url": "https://i.imgur.com/xfFhLxa.png",
+      "variable_value_name": "5 maps (no custom server)"
+    },
+    "abstract_easy": {
+      "label": "Abstract (Easy)",
+      "background_url": "https://cdn.playhive.com/maps/grav_abstract.jpg",
+      "variable_value_name": "Abstract (Easy)"
+    },
+    "apartments_easy": {
+      "label": "Apartments (Easy)",
+      "background_url": "https://cdn.playhive.com/maps/grav_apartments.jpg",
+      "variable_value_name": "Apartments (Easy)"
+    },
+    "beanstalk_easy": {
+      "label": "Beanstalk (Easy)",
+      "background_url": "https://cdn.playhive.com/maps/grav_beanstalk.jpg",
+      "variable_value_name": "Beanstalk (Easy)"
+    },
+    "beehive_easy": {
+      "label": "Beehive (Easy)",
+      "background_url": "https://cdn.playhive.com/maps/grav_beehive.jpg",
+      "variable_value_name": "Beehive (Easy)"
+    },
+    "concrete_easy": {
+      "label": "Concrete (Easy)",
+      "background_url": "https://cdn.playhive.com/maps/grav_concrete.jpg",
+      "variable_value_name": "Concrete (Easy)"
+    },
+    "cyberpunk_easy": {
+      "label": "Cyberpunk (Easy)",
+      "background_url": "https://cdn.playhive.com/maps/grav_cyberpunk.jpg",
+      "variable_value_name": "Cyberpunk (Easy)"
+    },
+    "data_easy": {
+      "label": "Data (Easy)",
+      "background_url": "https://cdn.playhive.com/maps/grav_beehive.jpg",
+      "variable_value_name": "Data (Easy)"
+    },
+    "depths_easy": {
+      "label": "Depths (Easy)",
+      "background_url": "https://cdn.playhive.com/maps/grav_depths.jpg",
+      "variable_value_name": "Depths (Easy)"
+    },
+    "glitched_easy": {
+      "label": "Glitched (Easy)",
+      "background_url": "https://cdn.playhive.com/maps/grav_glitched.jpg",
+      "variable_value_name": "Glitched (Easy)"
+    },
+    "groovy_easy": {
+      "label": "Groovy (Easy)",
+      "background_url": "https://cdn.playhive.com/maps/grav_groovy.jpg",
+      "variable_value_name": "Groovy (Easy)"
+    },
+    "jungle_easy": {
+      "label": "Jungle (Easy)",
+      "background_url": "https://cdn.playhive.com/maps/grav_jungle.jpg",
+      "variable_value_name": "Jungle (Easy)"
+    },
+    "lava_easy": {
+      "label": "Lava (Easy)",
+      "background_url": "https://cdn.playhive.com/maps/grav_lava.jpg",
+      "variable_value_name": "Lava (Easy)"
+    },
+    "pixels_easy": {
+      "label": "Pixels (Easy)",
+      "background_url": "https://cdn.playhive.com/maps/grav_pixels.jpg",
+      "variable_value_name": "Pixels (Easy)"
+    },
+    "shapes_easy": {
+      "label": "Shapes (Easy)",
+      "background_url": "https://cdn.playhive.com/maps/grav_shapes.jpg",
+      "variable_value_name": "Shapes (Easy)"
+    },
+    "shelves_easy": {
+      "label": "Shelves (Easy)",
+      "background_url": "https://cdn.playhive.com/maps/grav_shelves.jpg",
+      "variable_value_name": "Shelves (Easy)"
+    },
+    "shrine_easy": {
+      "label": "Shrine (Easy)",
+      "background_url": "https://cdn.playhive.com/maps/grav_shrine.jpg",
+      "variable_value_name": "Shrine (Easy)"
+    },
+    "stairs_easy": {
+      "label": "Stairs (Easy)",
+      "background_url": "https://cdn.playhive.com/maps/grav_stairs.jpg",
+      "variable_value_name": "Stairs (Easy)"
+    },
+    "toxic_easy": {
+      "label": "Toxic (Easy)",
+      "background_url": "https://cdn.playhive.com/maps/grav_toxic.jpg",
+      "variable_value_name": "Toxic (Easy)"
+    },
+    "waterways_easy": {
+      "label": "Waterways (Easy)",
+      "background_url": "https://cdn.playhive.com/maps/grav_waterways.jpg",
+      "variable_value_name": "Waterways (Easy)"
+    },
+    "clockwork_medium": {
+      "label": "Clockwork (Medium)",
+      "background_url": "https://cdn.playhive.com/maps/grav_clockwork.jpg",
+      "variable_value_name": "Clockwork (Medium)"
+    },
+    "construction_medium": {
+      "label": "Construction (Medium)",
+      "background_url": "https://cdn.playhive.com/maps/grav_construction.jpg",
+      "variable_value_name": "Construction (Medium)"
+    },
+    "daisies_medium": {
+      "label": "Daisies (Medium)",
+      "background_url": "https://cdn.playhive.com/maps/grav_daisies.jpg",
+      "variable_value_name": "Daisies (Medium)"
+    },
+    "deepscape_medium": {
+      "label": "Deepscape (Medium)",
+      "background_url": "https://cdn.playhive.com/maps/grav_deepscape.jpg",
+      "variable_value_name": "Deepscape (Medium)"
+    },
+    "dimensions_medium": {
+      "label": "Dimensions (Medium)",
+      "background_url": "https://cdn.playhive.com/maps/grav_dimensions.jpg",
+      "variable_value_name": "Dimensions (Medium)"
+    },
+    "dungeon_medium": {
+      "label": "Dungeon (Medium)",
+      "background_url": "https://cdn.playhive.com/maps/grav_dungeon.jpg",
+      "variable_value_name": "Dungeon (Medium)"
+    },
+    "labrinth_medium": {
+      "label": "Labrinth (Medium)",
+      "background_url": "https://cdn.playhive.com/maps/grav_labyrinth.jpg",
+      "variable_value_name": "Labrinth (Medium)"
+    },
+    "lilypads_medium": {
+      "label": "Lilypads (Medium)",
+      "background_url": "https://cdn.playhive.com/maps/grav_lilypads.jpg",
+      "variable_value_name": "Lilypads (Medium)"
+    },
+    "new_orleans_medium": {
+      "label": "New Orleans (Medium)",
+      "background_url": "https://cdn.playhive.com/maps/grav_neworleans.jpg",
+      "variable_value_name": "New Orleans (Medium)"
+    },
+    "post_office_medium": {
+      "label": "Post office (Medium)",
+      "background_url": "https://cdn.playhive.com/maps/grav_postoffice.jpg",
+      "variable_value_name": "Post office (Medium)"
+    },
+    "roadtrip_medium": {
+      "label": "Roadtrip (Medium)",
+      "background_url": "https://cdn.playhive.com/maps/grav_roadtrip.jpg",
+      "variable_value_name": "Roadtrip (Medium)"
+    },
+    "stained_glass_medium": {
+      "label": "Stained Glass (Medium)",
+      "background_url": "https://cdn.playhive.com/maps/grav_stainedglass.jpg",
+      "variable_value_name": "Stained Glass (Medium)"
+    },
+    "tomes_medium": {
+      "label": "Tomes (Medium)",
+      "background_url": "https://cdn.playhive.com/maps/grav_tomes.jpg",
+      "variable_value_name": "Tomes (Medium)"
+    },
+    "burrow_hard": {
+      "label": "Burrow (Hard)",
+      "background_url": "https://cdn.playhive.com/maps/grav_burrow.jpg",
+      "variable_value_name": "Burrow (Hard)"
+    },
+    "circuit_board_hard": {
+      "label": "Circuit Board (Hard)",
+      "background_url": "https://cdn.playhive.com/maps/grav_circuitboard.jpg",
+      "variable_value_name": "Circuit Board (Hard)"
+    },
+    "geometric_hard": {
+      "label": "Geometric (Hard)",
+      "background_url": "https://cdn.playhive.com/maps/grav_geometric.jpg",
+      "variable_value_name": "Geometric (Hard)"
+    },
+    "shanty_town_hard": {
+      "label": "Shanty Town (Hard)",
+      "background_url": "https://cdn.playhive.com/maps/grav_shantytown.jpg",
+      "variable_value_name": "Shanty Town (Hard)"
+    },
+    "space_hard": {
+      "label": "Space (Hard)",
+      "background_url": "https://cdn.playhive.com/maps/grav_space.jpg",
+      "variable_value_name": "Space (Hard)"
+    },
+    "triangles_hard": {
+      "label": "Triangles (Hard)",
+      "background_url": "https://cdn.playhive.com/maps/grav_triangles.jpg",
+      "variable_value_name": "Triangles (Hard)"
+    },
+    "twisted_hard": {
+      "label": "Twisted (Hard)",
+      "background_url": "https://cdn.playhive.com/maps/grav_twisted.jpg",
+      "variable_value_name": "Twisted (Hard)"
+    },
+    "under_the_sea_hard": {
+      "label": "Under The Sea (Hard)",
+      "background_url": "https://cdn.playhive.com/maps/grav_underthesea.jpg",
+      "variable_value_name": "Under The Sea (Hard)"
+    }
+  }
+}
