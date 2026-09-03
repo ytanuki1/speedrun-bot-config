@@ -2,7 +2,7 @@
   "bot_activity_text": "/speedrun | Gravity Leaderboard\nby Yytanuki\nSuper thanks: lyger",
   "default_background_url": "https://i.imgur.com/1gY2pA4.png",
   "jp_whitelist": [
-    "tann",
+    "tanukiYy",
     "AmonHive",
     "AlmondCellar",
     "Suriipu",
@@ -11,7 +11,8 @@
     "maikuragenzin",
     "spring861",
     "TouTubeTomaTV",
-    "iroha0515"
+    "iroha0515",
+    "Hyperion1204"
   ],
   "divisions": {
     "5maps": {
